@@ -1,0 +1,6 @@
+[submodule "code/ng-cra-api"]
+	path = code/ng-cra-api
+	url = git@github.com:hadrienl/ng-cra-api.git
+[submodule "code/ng-cra-client"]
+	path = code/ng-cra-client
+	url = git@github.com:hadrienl/ng-cra-client.git
